@@ -14,6 +14,6 @@ class Personagem{
 
 let Guerreiro = new Personagem ("HSOP", "26", "guerreiro", "espada");
 let Ninja = new Personagem ("OPKD", "24", "ninja", "shuriken");
-
+A
 Guerreiro.atacar();
 Ninja.atacar();
